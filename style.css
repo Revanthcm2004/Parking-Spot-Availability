@@ -1,0 +1,29 @@
+ .fa-pen-to-square, .fa-trash-can{
+      font-size: 20px;
+  }
+.fa-trash-can
+{
+    color:red;
+    
+  }
+ 
+  .fa-pen-to-square{
+    color:green;
+    
+  }
+  .fa-binoculars{
+    color:rgb(206, 128, 2);
+    font-size: 20px;
+  }
+  .link1{
+      color:green!important;
+      font-size: 17px;
+  }
+  .link1:hover{
+      color:red!important;
+      
+  }
+  .card-header{
+      color:white;
+      font-family: serif;
+  }
